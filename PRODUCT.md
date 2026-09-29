@@ -24,7 +24,7 @@ No presenta DUA y PIAR como definiciones aisladas: permite recorrer, comparar y 
 
 ## Operating Context
 
-Recurso autodirigido integrado a un curso en Moodle. La experiencia principal es una ruta guiada flexible con mapa persistente, estaciones explorables, simulacion de decisiones y cierre que remite a la bitacora externa del curso.
+Recurso autodirigido integrado a un curso en Moodle. La experiencia principal es una ruta guiada flexible con mapa persistente, estaciones explorables, simulacion de decisiones y un cierre que invita a reflexionar y aplicar lo aprendido en el aula.
 
 ## Capabilities and Constraints
 

@@ -158,7 +158,7 @@
 
 * **Diseño Visual:** Notas adhesivas digitales en tonos cálidos sobre un tablero de corcho virtual, con la firma de Project Zero.  
 * **Instrucción Metacognitiva:**  
-  *"¡Felicitaciones, Eco\! Has completado el recorrido por el Diseño Universal para el Aprendizaje y el PIAR en territorio. Ahora es momento de hacer visible tu propio proceso reflexivo. Dirígete a tu **Bitácora de Metacognición Digital** en Moodle y completa de manera detallada la siguiente rutina de pensamiento del Project Zero de la Universidad de Harvard \[26\]:"*
+  *"¡Felicitaciones, Eco\! Has completado el recorrido por el Diseño Universal para el Aprendizaje y el PIAR en territorio. Ahora es momento de hacer visible tu propio proceso reflexivo y pensar cómo llevarás lo aprendido a una próxima clase. Recorre la siguiente rutina de pensamiento:"*
 
 >   
 > **Rutina de Pensamiento Visible: "Antes pensaba... Ahora sé"** \[222\]  
@@ -166,6 +166,8 @@
 
 > 1. **Antes pensaba** que la inclusión en mi clase significaba...  
 > 2. **Ahora sé** que aplicar el DUA y el PIAR protege de forma directa el tiempo efectivo de aprendizaje de mis estudiantes porque...
+>
+> Para llevarlo a la práctica, piensa en una barrera que hayas observado en tu grupo y elige un ajuste DUA o PIAR que puedas aplicar en tu próxima clase.
 
 ---
 
@@ -174,4 +176,3 @@
 1. **Interactividad Dinámica:** Utilizar pop-ups o capas interactivas de información para que el usuario pueda explorar las especificaciones del PIAR (Ficha 4\) de manera secuencial sin tener que saltar entre diferentes páginas del sitio web.  
 2. **Paleta de Colores de Alto Contraste:** Asegurar que se usen tipografías legibles y colores complementarios del Instituto LIDERA y Enseña por Colombia (azul, naranja, gris carbón) \[242\]. Los textos explicativos densos deben ir siempre sobre fondos planos claros para evitar fatiga cognitiva en el usuario \[86, 240\].  
 3. **Accesibilidad en la Plataforma:** Activar las opciones de Genially que facilitan la lectura mediante texto alternativo y asegurar que los botones interactivos tengan micro-animaciones parpadeantes (*Hotspots*) para indicar claramente dónde se debe realizar la acción de exploración.
-

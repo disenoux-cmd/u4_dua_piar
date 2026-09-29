@@ -63,7 +63,7 @@
 Para asegurar que el curso sea autónomo, se proponen los siguientes componentes:
 
 1. Micro-aprendizaje con Videos tipo EDpuzzle: Lecciones de 2 a 3 minutos con preguntas insertadas para mantener la atención sostenida.  
-2. Bitácora de Metacognición Digital: Recursos Educativos Digitales (RED) orientados a estructurar espacios de reflexión profunda para el Eco, para potenciar este ejercicio, se adopta como referente el enfoque de Pensamiento Visible (Visible Thinking) del Project Zero de la Universidad de Harvard, implementando de manera sistemática rutinas de pensamiento como "Veo, pienso, me pregunto", esta estructura guiará al docente en formación a través de un proceso autónomo de observación atenta, interpretación basada en evidencias y formulación de preguntas reflexivas, estimulando el aprendizaje activo, la conexión con saberes previos y la autorregulación pedagógica en su rol de docente-aprendiz.  
+2. Reflexión y transferencia al aula: Recursos Educativos Digitales (RED) orientados a que el Eco reconozca lo aprendido, lo conecte con su práctica y elija una acción concreta para aplicarlo en clase. Las preguntas de cierre guiarán al docente en formación a través de un proceso autónomo de observación, interpretación y toma de decisiones pedagógicas.
 3. Repositorio de Estrategias: Banco de recursos descargables que incluye plantillas de documentos, fichas de roles y guías de mediación.  
 4. Simuladores de Casos: Ejercicios de "Puesta en escena" virtual donde el docente debe elegir la mejor instrucción ECOS o la respuesta restaurativa ante un conflicto simulado.  
 5. Rincón de los Retos: Actividades de profundización opcionales para los Ecos que deseen avanzar más rápido o tengan experiencia previa.
